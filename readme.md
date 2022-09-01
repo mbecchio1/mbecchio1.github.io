@@ -1,6 +1,1 @@
-<html>
-<body>
-  <h1> Web1 Exercise: GitHub Website </h1>
-  <p> Just writing a block of teeext...
-</body>
-</html>
+Hello, and welcome to mbecchio1's BDA594 Web1 excersize!
